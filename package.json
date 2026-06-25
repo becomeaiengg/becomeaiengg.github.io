@@ -3,7 +3,7 @@
     "private": true,
     "version": "1.0.0",
     "type": "module",
-    "homepage": "https://subasah.github.io/ai-engineering-10weeks/",
+    "homepage": "https://becomeaiengg.github.io/",
     "scripts": {
         "dev": "vite",
         "build": "vite build",

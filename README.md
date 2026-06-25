@@ -3,17 +3,17 @@
 # ⚡ AI Engineering — 10-Week Cohort
 
 **An interactive learning platform covering the full AI Engineering stack**  
-*From LLM fundamentals to production-grade agentic systems*
+_From LLM fundamentals to production-grade agentic systems_
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-GitHub_Pages-7c3aed?style=for-the-badge)](https://subasah.github.io/ai-engineering-10weeks/)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-GitHub_Pages-7c3aed?style=for-the-badge)](https://becomeaiengg.github.io/)
 [![React](https://img.shields.io/badge/React_18-TypeScript-61dafb?style=for-the-badge&logo=react)](https://react.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3-06b6d4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com)
 [![Vite](https://img.shields.io/badge/Vite-Build_Tool-646cff?style=for-the-badge&logo=vite)](https://vitejs.dev)
 
 ---
 
-*A hands-on program for software engineers upskilling into FDE and AI engineering roles.*  
-*August 1st → October 4th · 11:30 AM – 1 PM EDT, Sat–Sun*
+_A hands-on program for software engineers upskilling into FDE and AI engineering roles._  
+_August 1st → October 4th · 11:30 AM – 1 PM EDT, Sat–Sun_
 
 </div>
 
@@ -23,17 +23,17 @@
 
 Every week in this course has its own dedicated page on the site, packed with:
 
-| Feature | Description |
-|---|---|
-| 📖 **Learning Objectives** | Numbered goals you can achieve by end of week |
-| 💡 **Key Concept Cards** | 6 deep-dive cards per week with technical detail |
-| 🏭 **Industry Use Case** | Real-world application from finance, healthcare, legal, or manufacturing |
-| 🔄 **Process Flowchart** | Mermaid diagram of the week's core workflow |
-| 🏗️ **Architecture Diagram** | System/component design rendered interactively |
-| 📊 **Comparison Table** | Side-by-side tradeoffs to guide real decisions |
-| 📈 **Data Chart** | Recharts visualization (accuracy vs. speed, cost vs. quality, etc.) |
-| 🧠 **5-Question Quiz** | Interactive quiz with instant feedback and explanations |
-| 🏁 **Key Takeaways** | 5 bullet points summarizing the must-knows |
+| Feature                     | Description                                                              |
+| --------------------------- | ------------------------------------------------------------------------ |
+| 📖 **Learning Objectives**  | Numbered goals you can achieve by end of week                            |
+| 💡 **Key Concept Cards**    | 6 deep-dive cards per week with technical detail                         |
+| 🏭 **Industry Use Case**    | Real-world application from finance, healthcare, legal, or manufacturing |
+| 🔄 **Process Flowchart**    | Mermaid diagram of the week's core workflow                              |
+| 🏗️ **Architecture Diagram** | System/component design rendered interactively                           |
+| 📊 **Comparison Table**     | Side-by-side tradeoffs to guide real decisions                           |
+| 📈 **Data Chart**           | Recharts visualization (accuracy vs. speed, cost vs. quality, etc.)      |
+| 🧠 **5-Question Quiz**      | Interactive quiz with instant feedback and explanations                  |
+| 🏁 **Key Takeaways**        | 5 bullet points summarizing the must-knows                               |
 
 ---
 
@@ -123,15 +123,15 @@ Every week in this course has its own dedicated page on the site, packed with:
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology | Purpose |
-|---|---|---|
-| Framework | React 18 + TypeScript | Component-based UI with type safety |
-| Build Tool | Vite 5 | Fast HMR dev server, optimized production builds |
-| Styling | Tailwind CSS v3 | Dark cohort-branded theme (navy + violet + pink) |
-| Routing | React Router v6 | Hash-based routing for GitHub Pages |
-| Diagrams | Mermaid.js v10 | 20+ interactive flowcharts & architecture diagrams |
-| Charts | Recharts v2 | 10 data visualizations with hover tooltips |
-| Deploy | GitHub Actions → gh-pages | Auto-deploy on every push to `main` |
+| Layer      | Technology                | Purpose                                            |
+| ---------- | ------------------------- | -------------------------------------------------- |
+| Framework  | React 18 + TypeScript     | Component-based UI with type safety                |
+| Build Tool | Vite 5                    | Fast HMR dev server, optimized production builds   |
+| Styling    | Tailwind CSS v3           | Dark cohort-branded theme (navy + violet + pink)   |
+| Routing    | React Router v6           | Hash-based routing for GitHub Pages                |
+| Diagrams   | Mermaid.js v10            | 20+ interactive flowcharts & architecture diagrams |
+| Charts     | Recharts v2               | 10 data visualizations with hover tooltips         |
+| Deploy     | GitHub Actions → gh-pages | Auto-deploy on every push to `main`                |
 
 ---
 
@@ -152,7 +152,7 @@ npm run dev
 npm run build
 ```
 
-Open [http://localhost:5173/ai-engineering-10weeks/](http://localhost:5173/ai-engineering-10weeks/)
+Open [http://localhost:5173/](http://localhost:5173/)
 
 ---
 
@@ -201,7 +201,7 @@ The site auto-deploys via GitHub Actions on every push to `main`:
 2. Built `dist/` is pushed to the `gh-pages` branch
 3. GitHub Pages serves from `gh-pages`
 
-**Live URL:** [https://subasah.github.io/ai-engineering-10weeks/](https://subasah.github.io/ai-engineering-10weeks/)
+**Live URL:** [https://becomeaiengg.github.io](https://becomeaiengg.github.io)
 
 ---
 
